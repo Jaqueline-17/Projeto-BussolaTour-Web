@@ -1,0 +1,10 @@
+.corHr{
+    color: rgb(5, 5, 129);
+    height: 10px;
+}
+
+.boxTitulo{
+    align-self: flex-start;
+    margin-top: 10px;
+    margin-left: 45px;
+}

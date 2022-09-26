@@ -1,0 +1,15 @@
+#boxDestinos{
+    padding: 5px;
+    margin-top: 1.5%;
+    border: 2px solid;
+    border-radius: 5px;
+    display: flex;
+}
+
+#boxDestinos:hover{
+    box-shadow: 3px 4px rgba(0, 0, 0, 0.329);
+}
+
+#corpoMedia{
+    margin-left: 5px;
+}

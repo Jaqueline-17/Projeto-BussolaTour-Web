@@ -1,0 +1,25 @@
+#cardHover{
+    margin: 5px;
+    width: 260px;
+    height: 350px;
+}
+
+.divCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#corpoCard{
+    padding: 10px;
+    margin-top: 25px;
+}
+
+#cardHover:hover{
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.404);
+}
+
+.tamanho_preco{
+    font-size: 20px;
+}
